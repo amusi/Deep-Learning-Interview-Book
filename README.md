@@ -13,7 +13,7 @@
 - :surfer: [SLAM](docs/SLAM.md)
 - :busts_in_silhouette: [推荐算法](docs/推荐算法.md)
 - :bar_chart: [数据结构与算法](docs/数据结构与算法.md)
-- :snake: [编程语言](docs/编程语言.md)
+- :snake: [编程语言：C/C++/Python](docs/编程语言.md)
 - :fireworks: [深度学习框架](docs/深度学习框架.md)
 - :pencil2: [面试经验](docs/面试经验.md)
 - :bulb: [面试技巧](docs/面试技巧.md)
