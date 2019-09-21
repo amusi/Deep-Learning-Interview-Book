@@ -17,7 +17,7 @@
 - :fireworks: [深度学习框架](docs/深度学习框架.md)
 - :pencil2: [面试经验](docs/面试经验.md)
 - :bulb: [面试技巧](docs/面试技巧.md)
-- :mega: [其它](docs/其它.md)
+- :mega: [其它（计算机网络/Linux等）](docs/其它.md)
 
 ![](docs/imgs/DLIB-Mindmap.png)
 
