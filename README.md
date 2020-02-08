@@ -2,6 +2,8 @@
 
 **Deep Learning Interview Book**
 
+- :star: [求职攻略](https://github.com/amusi/AI-Job-Notes)
+
 - :smiley: [自我介绍](docs/自我介绍.md)
 - :1234: [数学](docs/数学.md)
 - :mortar_board: [机器学习](docs/机器学习.md)
