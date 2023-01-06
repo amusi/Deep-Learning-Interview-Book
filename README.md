@@ -20,6 +20,8 @@
 - :bulb: [面试技巧](docs/面试技巧.md)
 - :mega: [其它（计算机网络/Linux等）](docs/其它.md)
 
+[2023年AI算法岗求职群](https://mp.weixin.qq.com/s/vHpSUgdJf2JG69VFRZ2T9A)
+
 ![](docs/imgs/2023年AI算法岗求职群.jpg)
 
 ![](docs/imgs/DLIB-Mindmap.png)
