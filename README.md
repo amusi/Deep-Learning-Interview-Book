@@ -19,9 +19,19 @@
 - :pencil2: [面试经验](docs/面试经验.md)
 - :bulb: [面试技巧](docs/面试技巧.md)
 - :mega: [其它（计算机网络/Linux等）](docs/其它.md)
-- [2024年AI算法岗和开发岗求职群](https://mp.weixin.qq.com/s/vHpSUgdJf2JG69VFRZ2T9A)
+- [2024年AI算法岗和开发岗求职群](https://mp.weixin.qq.com/s/sK_oSU1PmbUJ5ZGeMmY27A)
 
-![](docs/imgs/2024年AI算法岗求职群.jpg)
+**加入2024年求职群(知识星球)方式**
+
+**价格：~~199元（每天仅4毛钱）~~限时立减30！特惠仅169元！**
+
+**时长：一年（从你加入的时刻算起）**
+
+加入方式：微信扫描下方二维码，即可加入AI算法岗和开发岗求职群（知识星球）
+
+> 建议：进群后，推荐下载知识星球APP使用，同时也可使用小程序或者知识星球公众号进行使用，可以发帖/提问/交流/回答，并可以快速访问群里的资源。
+
+![](docs/imgs/2024年AI算法岗求职群优惠券.png)
 
 ![](docs/imgs/DLIB-Mindmap.png)
 
